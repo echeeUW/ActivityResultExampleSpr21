@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Activity Result Example</string>
+    <string name="new_tweet">New Tweet</string>
+    <string name="tweets_title">Tweets:</string>
+</resources>
